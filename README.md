@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm a full-stack developer who enjoys coding on many kinds of projects.
+
+![stats](profile/stats.svg)
 
 <!--
 **brokencuph/brokencuph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
